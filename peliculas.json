@@ -1,0 +1,63 @@
+[
+	{
+		"titulo": "Spiderman1",
+		"genero": "Accion",
+		"idioma": "Spanish",
+		"duracion": "150",
+		"calificacion": "Buena",
+		"resumen": "Spiderman inicio",
+		"anio_produccion": "2016",
+		"formato": "3D",
+		"director": "Alan King",
+		"clasificacion": "B"
+	},
+	{
+		"titulo": "Mujer maravilla",
+		"genero": "Accion",
+		"idioma": "English",
+		"duracion": "150",
+		"calificacion": "Mala",
+		"resumen": "Mujer lucha conta el mal",
+		"anio_produccion": "2020",
+		"formato": "3D",
+		"director": "Camila Crrillo",
+		"clasificacion": "A"
+	},
+	{
+		"titulo": "Batman",
+		"genero": "Animada",
+		"idioma": "Spanish",
+		"duracion": "210",
+		"calificacion": "Buena",
+		"resumen": "Batman lucha contra wason por ciudad gotica",
+		"anio_produccion": "2018",
+		"formato": "3D",
+		"director": "Jon Morrison",
+		"clasificacion": "C"
+	},
+	{
+		"titulo": "Capitan America",
+		"genero": "Accion",
+		"idioma": "English",
+		"duracion": "215",
+		"calificacion": "Excelente",
+		"resumen": "Super heroe lucha contra el mal",
+		"anio_produccion": "2020",
+		"formato": "2D",
+		"director": "Dwany Jonson",
+		"clasificacion": "A"
+	},
+	{
+		"titulo": "Ant Man",
+		"genero": "Comedia",
+		"idioma": "Spanish",
+		"duracion": "200",
+		"calificacion": "Buena",
+		"resumen": "Hombre hormiga lucha contra el mal",
+		"anio_produccion": "2015",
+		"formato": "3D",
+		"director": "Cameron Jonson",
+		"clasificacion": "A"
+	}
+
+]
